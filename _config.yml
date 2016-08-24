@@ -1,0 +1,14 @@
+name: Breakfast&Babies
+layout_spectrum: 0.5807404111771977
+typography_spectrum: 0.9145425476978349
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.395783228178637
+  lightness: 0.6405177091964747
+  saturation: 0.4143226730101591
+  rhythmicContrast: 0.9927007087147488
